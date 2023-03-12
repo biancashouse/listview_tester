@@ -1,0 +1,19 @@
+name: listview_tester
+description: Showing an issue with testing ListView and using ListTiles
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  test: any
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
